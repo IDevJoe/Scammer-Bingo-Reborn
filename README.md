@@ -18,7 +18,7 @@ Click [here](https://github.com/HexxiumCreations/Scammer-Bingo-Reborn/wiki/How-t
 
 You can download by going [here](https://github.com/HexxiumCreations/Scammer-Bingo-Reborn/releases).
 
-# Other versions
+# Other versions 
 
 - [Android](https://play.google.com/store/apps/details?id=com.xelitexirish.scammerbingo)
 - [Java (Universal)](https://github.com/HexxiumCreations/spammer-bingo-desktop-java)
