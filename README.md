@@ -1,6 +1,6 @@
 ![Logo](ScammerBingo128.png)
 
-![Total Downloads](https://img.shields.io/github/downloads/JoeTheHuman/Scammer-Bingo-Reborn/total.svg?style=flat) ![Version](https://img.shields.io/badge/Version-1.4.1.0-brightgreen.svg?style=flat) | [Twitter](http://twitter.com/scammerbr)
+![Total Downloads](https://img.shields.io/github/downloads/JoeTheHuman/Scammer-Bingo-Reborn/total.svg?style=flat) ![Version](https://img.shields.io/badge/Version-1.4.1.1-brightgreen.svg?style=flat) | [Twitter](http://twitter.com/scammerbr)
 
 # Scammer Bingo Reborn
 
